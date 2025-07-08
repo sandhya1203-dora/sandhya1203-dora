@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandhya1203-dora
+- 👋 Hi, I’m @sandhya1203
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-sandhya1203-dora/sandhya1203-dora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sandhya1203/sandhya1203is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
